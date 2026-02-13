@@ -1,6 +1,4 @@
 
-INCLUDE c:\Users\D E L L\.vscode\extensions\istareatscreens.masm-runner-0.4.5\native\irvine\Irvine32.inc
-.data
 msg1 byte 0dh,0ah,"BMI Calculator",0dh,0ah,0
 msg2 byte "Metric Systems:",0dh,0ah,0
 msg3 byte "1. Metric Units",0dh,0ah,0
