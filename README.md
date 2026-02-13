@@ -1,9 +1,4 @@
 # BMI-Project-Assembly-Language-
-Here is a clean, professional README for your **BMI Calculator (Assembly Language)** project:
-
----
-
-# BMI Calculator (x86 Assembly Language)
 
 Overview:
 This project is a BMI (Body Mass Index) Calculator developed in x86 Assembly Language using the Irvine32 library. The program calculates BMI based on user input and categorizes the result according to age and gender.
@@ -75,5 +70,3 @@ Concepts Demonstrated:
 * Procedure structure in assembly
 
 
-
-If you want, I can also make a slightly more technical version (better for internships) or a simpler one (for quick GitHub upload).
